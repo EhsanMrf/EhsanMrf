@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanmrf&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanmrf" /> </p>
 
-- 🔭 I’m currently working on [FluenFilterSharp](https://github.com/EhsanMrf/FluentFilterSharp)
+- 🔭 I’m currently working on [FluentFilterSharp](https://github.com/EhsanMrf/FluentFilterSharp)
 
 - 🌱 I’m currently learning **Elastic**
 
-- 🤝 I’m looking for help with [FluenFilterSharp](https://github.com/EhsanMrf/FluentFilterSharp)
+- 🤝 I’m looking for help with [FluentFilterSharp](https://github.com/EhsanMrf/FluentFilterSharp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/EhsanMrf](https://github.com/EhsanMrf)
 
-- 💬 Ask me about **.NE ,FluenFilterSharp**
+- 💬 Ask me about **.NE ,FluentFilterSharp**
 
 - 📫 How to reach me **ehsanmaarefvand.dev@gmail.com**
 
